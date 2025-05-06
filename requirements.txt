@@ -3,3 +3,7 @@ textblob
 langchain
 langchain-community
 ollama
+
+#pip install -r requirements.txt
+#ollama run tinyllama
+#streamlit run app.py
